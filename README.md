@@ -1,3 +1,17 @@
+```
+                 ___           ___           ___       ___       ___     
+                /\__\         /\  \         /\__\     /\__\     /\  \    
+               /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+              /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+             /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+            /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+            \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                 \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                 /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                \/__/         \/__/         \/__/     \/__/     \/__/    
+```
+
 <!-- Typing SVG Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BB52&size=35&center=true&vCenter=true&width=1000&lines=SilverSea+:+Frontend+Developer;SilverSea+:+Backend+Developer;SilverSea+:+Mobile+Developer;SilverSea+:+AI+Engineer)](https://git.io/typing-svg)
 
